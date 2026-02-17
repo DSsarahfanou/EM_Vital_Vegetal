@@ -1,6 +1,6 @@
 'use client'
 
-import { addToCart } from "@/lib/features/cart/cartSlice";
+import { addToCart } from "../lib/features/cart/cartSlice";
 import { StarIcon, TagIcon, EarthIcon, CreditCardIcon, UserIcon } from "lucide-react";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
@@ -11,7 +11,7 @@ import { useDispatch, useSelector } from "react-redux";
 const ProductDetails = ({ product }) => {
 
     const productId = product.id;
-    const currency = process.env.NEXT_PUBLIC_CURRENCY_SYMBOL || '$';
+    const currency = process.env.NEXT_PUBLIC_CURRENCY_SYMBOL || 'FCFA';
 
     const cart = useSelector(state => state.cart.cartItems);
     const dispatch = useDispatch();

@@ -1,12 +1,14 @@
 'use client'
-import ProductDescription from "@/components/ProductDescription";
-import ProductDetails from "@/components/ProductDetails";
+
+import ProductDescription from "../../../../components/ProductDescription";
+import ProductDetails from "../../../../components/ProductDetails";
 import { useParams } from "next/navigation";
 import { useEffect, useState } from "react";
 import { useSelector } from "react-redux";
 
 export default function Product() {
 
+    ProductDescription
     const { productId } = useParams();
     const [product, setProduct] = useState();
     const products = useSelector(state => state.product.list);

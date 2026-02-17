@@ -1,85 +1,89 @@
 <div align="center">
-  <h1><img src="https://gocartshop.in/favicon.ico" width="20" height="20" alt="GoCart Favicon">
-   GoCart</h1>
-  <p>
-    An open-source multi-vendor e-commerce platform built with Next.js and Tailwind CSS.
-  </p>
-  <p>
-    <a href="https://github.com/GreatStackDev/goCart/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/GreatStackDev/goCart?style=for-the-badge" alt="License"></a>
-    <a href="https://github.com/GreatStackDev/goCart/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"></a>
-    <a href="https://github.com/GreatStackDev/goCart/issues"><img src="https://img.shields.io/github/issues/GreatStackDev/goCart?style=for-the-badge" alt="GitHub issues"></a>
-  </p>
+<h1><img src="https://ewe-medji.org/favicon.ico" width="20" height="20" alt="EWE MEDJI Favicon">
+EWE MEDJI – Vital Végétal</h1>
+<p>
+Une plateforme de médecine traditionnelle intégrative et de e-commerce dédiée aux produits naturels, aux formations et au bien-être holistique.
+</p>
+<p>
+<a href="./LICENSE.md"><img src="https://img.shields.io/github/license/GreatStackDev/goCart?style=for-the-badge" alt="License"></a>
+<a href="./CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributions-Bienvenues-brightgreen.svg?style=for-the-badge" alt="Contributions Bienvenues"></a>
+</p>
 </div>
 
----
+📖 Table des matières
+✨ Fonctionnalités
 
-## 📖 Table of Contents
+🛠️ Technologies
 
-- [✨ Features](#-features)
-- [🛠️ Tech Stack](#-tech-stack)
-- [🚀 Getting Started](#-getting-started)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
+🚀 Démarrage
 
----
+🌿 Produits
 
-## Features
+🎓 Formations et Services
 
-- **Multi-Vendor Architecture:** Allows multiple vendors to register, manage their own products, and sell on a single platform.
-- **Customer-Facing Storefront:** A beautiful and responsive user interface for customers to browse and purchase products.
-- **Vendor Dashboards:** Dedicated dashboards for vendors to manage products, view sales analytics, and track orders.
-- **Admin Panel:** A comprehensive dashboard for platform administrators to oversee vendors, products, and commissions.
+🤝 Contribuer
 
-## 🛠️ Tech Stack <a name="-tech-stack"></a>
+📜 Licence
 
-- **Framework:** Next.js
-- **Styling:** Tailwind CSS
-- **UI Components:** Lucide React for icons
-- **State Management:** Redux Toolkit
+✨ Fonctionnalités
+Boutique en ligne : vente de compléments alimentaires, tisanes thérapeutiques, savons spirituels, kits détox et Africa Tonus.
 
-## 🚀 Getting Started <a name="-getting-started"></a>
+Multi-vendeur : possibilité pour plusieurs praticiens ou partenaires de proposer leurs produits.
 
-First, install the dependencies. We recommend using `npm` for this project.
+Tableau de bord : gestion des commandes, factures et suivi des ventes.
 
-```bash
+Blog & Actualités : diffusion d’articles scientifiques, conseils de santé et témoignages.
+
+Formations : modules sur la phytothérapie, la nutrithérapie et les pratiques holistiques.
+
+Consultations : prise de rendez-vous pour soins préventifs et accompagnement spirituel.
+
+🛠️ Technologies
+Framework : Next.js
+
+Styling : Tailwind CSS
+
+UI Components : Lucide React
+
+State Management : Redux Toolkit
+
+🚀 Démarrage
+Installez les dépendances :
+
+bash
 npm install
-```
+Lancez le serveur de développement :
 
-Then, run the development server:
-
-```bash
+bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Ouvrez http://localhost:3000 (localhost in Bing) pour voir le résultat.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🌿 Produits
+Complément anti-diabète
 
-You can start editing the page by modifying `app/(public)/page.js`. The page auto-updates as you edit the file.
+Kit détox
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Outfit](https://vercel.com/font), a new font family for Vercel.
+Tisanes thérapeutiques (yeux, cœur, immunité)
 
----
+Africa Tonus (vitalité sexuelle)
 
-## 🤝 Contributing <a name="-contributing"></a>
+Savon de chance
 
-We welcome contributions! Please see our [CONTRIBUTING.md](./CONTRIBUTING.md) for more details on how to get started.
+Parfum d’attirance
 
----
+Bain traditionnel de purification
 
-## 📜 License <a name="-license"></a>
+🎓 Formations et Services
+Transformation agroalimentaire et cosmétique
 
-This project is licensed under the MIT License. See the [LICENSE.md](./LICENSE.md) file for details.
+Phytothérapie et nutrithérapie
 
-## Learn More
+Consultations holistiques et accompagnement spirituel
 
-To learn more about Next.js, take a look at the following resources:
+Activités bien-être dans le jardin thérapeutique de Sogan
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🤝 Contribuer
+Les contributions sont les bienvenues ! Consultez [Il semble que le résultat n’était pas sûr à afficher. Changeons un peu et essayons autre chose !] pour plus de détails.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+📜 Licence
+Ce projet est sous licence MIT. Voir [Il semble que le résultat n’était pas sûr à afficher. Changeons un peu et essayons autre chose !] pour plus d’informations.

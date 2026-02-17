@@ -1,130 +1,48 @@
-# Contributor Covenant Code of Conduct
+# Code de Conduite – EWE MEDJI Vital Végétal
 
-## Version 2.1
+## Notre Engagement
 
-## Our Pledge
+En tant que membres, contributeurs et responsables, nous nous engageons à faire de la participation à notre communauté une expérience respectueuse et inclusive pour tous, indépendamment de l’âge, de l’origine, du genre, de la religion, de l’identité culturelle ou des pratiques traditionnelles.
 
-We as members, contributors and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion or sexual identity
-and orientation.
+Nous nous engageons à agir et interagir de manière à contribuer à une communauté ouverte, accueillante, diversifiée et saine, en valorisant les savoirs endogènes et la médecine traditionnelle intégrative.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive and healthy community.
+## Nos Standards
 
-## Our Standards
+Comportements positifs :
+- Faire preuve d’empathie et de bienveillance envers les autres.  
+- Respecter les opinions et expériences différentes.  
+- Donner et recevoir des retours constructifs avec respect.  
+- Assumer nos erreurs et apprendre de celles‑ci.  
+- Se concentrer sur ce qui est bénéfique pour la communauté et pour la mission de santé holistique.  
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+Comportements inacceptables :
+- Langage ou images sexualisés, harcèlement ou avances non sollicitées.  
+- Trolls, insultes, attaques personnelles ou politiques.  
+- Publication d’informations privées sans consentement.  
+- Toute conduite jugée inappropriée dans un cadre professionnel ou communautaire.  
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
- 
-Examples of unacceptable behavior include:
+## Responsabilités d’application
 
-* The use of sexualized language or imagery and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+Les responsables de la communauté EWE MEDJI sont chargés de clarifier et d’appliquer les standards de conduite. Ils peuvent supprimer ou rejeter des contributions qui ne respectent pas ce code et expliquer leurs décisions.
 
-## Enforcement Responsibilities
+## Portée
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior they deem inappropriate, threatening, offensive,
-or harmful.
+Ce code s’applique dans tous les espaces communautaires, en ligne et hors ligne, ainsi que lorsque quelqu’un représente officiellement EWE MEDJI (email, réseaux sociaux, événements).
 
-Community leaders have the right and responsibility to remove, edit or reject
-comments, commits, code, wiki edits, issues and other contributions that are
-not aligned to this Code of Conduct and will communicate reasons for moderation
-decisions when appropriate.
+## Signalement
 
-## Scope
+Tout comportement abusif ou inacceptable peut être signalé à :  
+📧 **contact@ewe-medji.org**
 
-This Code of Conduct applies within all community spaces and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account or acting as an appointed
-representative at an online or offline event.
+Les plaintes seront examinées rapidement et équitablement, dans le respect de la confidentialité.
 
-## Enforcement
+## Sanctions
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-greatstackdev@gmail.com.
-All complaints will be reviewed and investigated promptly and fairly.
-
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
-
-## Enforcement Guidelines
-
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
-
-### 1. Correction
-
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
-
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
- 
-### 2. Warning
-
-**Community Impact**: A violation through a single incident or series
-of actions.
-
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
- 
-### 3. Temporary Ban
-
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
-
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
- 
-### 4. Permanent Ban
-
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual or aggression toward or disparagement of classes of individuals.
-
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+1. **Correction** : avertissement privé et clarification.  
+2. **Avertissement** : avertissement officiel avec conséquences en cas de récidive.  
+3. **Suspension temporaire** : exclusion temporaire des espaces communautaires.  
+4. **Exclusion permanente** : en cas de violations répétées ou graves.  
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
-
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
-
-[homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+Ce Code de Conduite est inspiré du [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html), version 2.1, et adapté à la mission d’EWE MEDJI.
