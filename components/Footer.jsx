@@ -1,4 +1,7 @@
 import Link from "next/link";
+import Image from "next/image"
+
+import { assets } from "../assets/assets"
 
 const Footer = () => {
 
@@ -32,9 +35,9 @@ const Footer = () => {
         {
             title: "CONTACT",
             links: [
-                { text: "+1-212-456-7890", path: '/', icon: MailIcon },
-                { text: "contact@example.com", path: '/', icon: PhoneIcon },
-                { text: "794 Francisco, 94102", path: '/', icon: MapPinIcon }
+                { text: "aigbejsf@yahoo.fr", path: '/', icon: MailIcon },
+                { text: "+229 0197984874", path: '/', icon: PhoneIcon },
+                { text: "725 Tri Postal Cotonou", path: '/', icon: MapPinIcon }
             ]
         }
     ];
@@ -50,10 +53,14 @@ const Footer = () => {
         <footer className="mx-6 bg-white">
             <div className="max-w-7xl mx-auto">
                 <div className="flex flex-col md:flex-row items-start justify-between gap-10 py-10 border-b border-slate-500/30 text-slate-500">
-                    <div>
-                        <Link href="/" className="text-4xl font-semibold text-slate-700">
-                            <span className="text-green-600">go</span>cart<span className="text-green-600 text-5xl leading-0">.</span>
-                        </Link>
+                    <div >
+                        <div className="flex flex-row justify-beetween">
+                            <Image className="w-14 h-14 rounded-full" src={assets.gs_logo} alt="" width={80} height={80} />
+                            <Link href="/" className="text-4xl font-semibold text-slate-700">
+                                <span className="text-green-600">EM's</span>Vital Vegetal<span className="text-green-600 text-5xl leading-0">.</span>
+                            </Link>
+                        </div>
+
                         <p className="max-w-102.5 mt-6 text-sm">Welcome to EM's Vital Végétal, your ultimate destination for the latest and smartest gadgets. From smartphones and smartwatches to essential accessories, we bring you the best in innovation — all in one place.</p>
                         <div className="flex items-center gap-3 mt-5">
                             {socialIcons.map((item, i) => (
